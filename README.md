@@ -1,6 +1,7 @@
 # Operating Systems:
 
-Georgia Tech OMSCS Intro to Operating Systems course projects, assignments, and research papers
+Georgia Tech OMSCS - Intro to Operating Systems 
+Course projects, assignments, and research papers
 
 ## Included
 
